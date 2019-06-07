@@ -1,2 +1,5 @@
 # wp-plugin-taxonomy
-a
+
+# Creates a custom Post type -Tutorials 
+
+### Add , delete posts , with categories...
